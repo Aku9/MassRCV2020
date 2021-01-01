@@ -1,7 +1,7 @@
 # Massachusetts Ranked Choice Voting 2020
 An exploratory analysis of voting and demographics in Massachusetts.
 
-To view the analysis without needing too run it yourself, you can follow this link: 
+To view the analysis without needing to run it yourself, you can follow this link: 
 https://nbviewer.jupyter.org/github/Aku9/MassRCV2020/blob/main/MassachusettsRankedChoiceVoting2020/MassachusettsRankedChoiceVoting2020.ipynb
 
 In this project, I examine the votes on the Massachusetts 2020 general election ballot.
